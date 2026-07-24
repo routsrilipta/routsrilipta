@@ -24,7 +24,7 @@
 
 | Project | Tech Stack |
 |:---|:---|
-| FruitFresh Bhubaneswar | MERN Stack |
+| [FruitFresh Bhubaneswar](https://github.com/routsrilipta/web-dev-mern-stack) | MERN Stack |
 | IPL Cricket Web App | Firebase, HTML, CSS, JS |
 | Restaurant Landing Page | HTML, CSS, JS |
 
