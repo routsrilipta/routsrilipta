@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Frontend+Developer;I+don't+watch+anime%2C+I+code+anime" />
 
-<!--
-**routsrilipta/routsrilipta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![Views](https://komarev.com/ghpvc/?username=routsrilipta&color=blueviolet)
+  ![Followers](https://img.shields.io/github/followers/routsrilipta?style=social)
 
-Here are some ideas to get you started:
+  ### 🍥 My Anime Creations
+  | Project | Language |
+  |---|---|
+  | Naruto — Sage Mode | HTML, CSS, JS |
+  | Zoro — King of Hell | HTML, CSS, JS |
+  | Demon Slayer — Yoriichi & Kokushibo | HTML, CSS, JS |
+  | JJK — Sukuna | HTML, CSS, JS |
+  | One Piece 3D Website | TypeScript |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### 📊 GitHub Stats
+  ![Stats](https://github-readme-stats.vercel.app/api?username=routsrilipta&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=routsrilipta&theme=tokyonight)
+
+
+</div>
