@@ -4,15 +4,9 @@
   ![Views](https://komarev.com/ghpvc/?username=routsrilipta&color=blueviolet)
   ![Followers](https://img.shields.io/github/followers/routsrilipta?style=social)
 
-  ### 🍥 My Anime Creations
-  | Project | Language |
-  |---|---|
-  | Naruto — Sage Mode | HTML, CSS, JS |
-  | Zoro — King of Hell | HTML, CSS, JS |
-  | Demon Slayer — Yoriichi & Kokushibo | HTML, CSS, JS |
-  | JJK — Sukuna | HTML, CSS, JS |
-  | One Piece 3D Website | TypeScript |
+  ### 💻 What I Build
 
+> Building things that break, then fixing them better
   ### 📊 GitHub Stats
   ![Stats](https://github-readme-stats.vercel.app/api?username=routsrilipta&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=routsrilipta&theme=tokyonight)
