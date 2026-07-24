@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Frontend+Developer;I+don't+watch+anime%2C+I+code+anime" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Coder+%7C+Problem+Solver;Building+things+that+break%2C+then+fixing+them+better" />
 
   ![Views](https://komarev.com/ghpvc/?username=routsrilipta&color=blueviolet)
   ![Followers](https://img.shields.io/github/followers/routsrilipta?style=social)
